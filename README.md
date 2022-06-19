@@ -1,5 +1,5 @@
 # PygameGobblet
-A single computer pygame implementation of the board game "gobblet"
+A single computer pygame/pythonista implementation of the two player board game "gobblet"
 
 ## How to play:
 
@@ -8,4 +8,5 @@ Move pieces by clicking on them. A piece will follow the mouse if selected. One 
 Once a game is finished, you may press r to start a new game. At any time, press esc or press the red button to quit the game
 
 ## notice:
-As of yet no win detector has been made, so always pay attention to see if either player has won.
+the pygame version does not have a win detector!
+
